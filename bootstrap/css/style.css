@@ -1,0 +1,14 @@
+.navbar-default  {
+  
+    background-color: #FF8000;
+}
+
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #190707;
+    
+}
+
+panel-body {
+		background-color: #190707;
+	 }
