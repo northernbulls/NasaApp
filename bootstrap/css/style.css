@@ -18,3 +18,19 @@ panel-body {
     background-color: #FF8000;
     
 }
+.ruta {
+     display: flex;
+    justify-content: center;
+}
+
+.incendio {
+     display: flex;
+    justify-content: center;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+}
+
+   
